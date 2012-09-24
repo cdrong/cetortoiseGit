@@ -26,7 +26,7 @@
 #include "proc_pc.h"
 #include "proc_pm.h"
 
-#define EX_MESSAGE
+#define EX_MESSAGE1
 //#include "proc_send_task.h"
 
 #define CPU_CLK			8000000L		// Clock 8Mhz
