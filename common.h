@@ -28,7 +28,7 @@
 
 #define EX_MESSAGE1
 //#include "proc_send_task.h"
-
+// add ex message
 #define CPU_CLK			8000000L		// Clock 8Mhz
 
 #define TICK_PER_SEC		(100UL)
